@@ -1,0 +1,5 @@
+Install packages with
+$ pip install requiremenets.txt
+
+Run project with
+$ python main.py file.xlsx
