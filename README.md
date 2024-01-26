@@ -1,6 +1,6 @@
 Install packages with
 ```
-$ pip install -r requiremenets.txt
+$ pip install -r requirements.txt
 ```
 Run project with
 ```
